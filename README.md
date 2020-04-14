@@ -1,6 +1,6 @@
 # Building a Spam Filter with Naive Bayes
 
-[Originally published in the Medium platfrom via the Towards Data Science [publication](https://towardsdatascience.com/coding-a-kryptonite-for-spammers-the-naive-bayes-filter-e533e59a681f)]
+[Originally published on Medium via the Towards Data Science [publication](https://towardsdatascience.com/coding-a-kryptonite-for-spammers-the-naive-bayes-filter-e533e59a681f)]
 
 ## Introduction
 Nowadays, communication channels are constantly attacked by fraudulent mechanisms, which tend to "steal" time and money from people and organizations. Spamming activity is one of them and wastes people's time, while also "eats up" a lot of network bandwidth. Data Science could not be absent from this battle front and, fortunately, it is capable to offer valuable solutions.
