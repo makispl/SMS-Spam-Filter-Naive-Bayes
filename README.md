@@ -39,5 +39,8 @@ There is quite a number of additional analyses to be performed, expanding this o
 * You may try to run the algorithm, by exluding one or more of the aforementioned techinques (stemming, lemmatization etc) and figure out whether the final accuracy is positively affected.
 
 * Analyze the 27 messages that were classified incorrectly and try to figure out why the algorithm classified them incorrectly.
-
+## Authors and Acknowledgement
 [*It stands as an independent analysis in an effort to enhance my ability to communicate results, reason about data statistically and stay motivated to continuously implement newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects*]
+- [@makispl](https://github.com/makispl) for concept & implementation.
+- [@MPlegas](https://twitter.com/MPlegas) Twitter
+- [@gerasimos_plegas](https://medium.com/@gerasimos_plegas) Medium
